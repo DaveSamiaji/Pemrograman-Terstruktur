@@ -1,3 +1,3 @@
 # Pemrograman-Terstruktur
-NIM    = K3521017
-Nama   = Dave Samiaji
+#NIM    = K3521017
+#Nama   = Dave Samiaji
